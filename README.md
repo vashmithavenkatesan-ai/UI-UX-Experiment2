@@ -1,3 +1,4 @@
+```
 UI-UX-Experiment2
 Aim:
 a. Apply Gestalt principles to enhance mobile and web layout design. b. Incorporate UI elements and design patterns into the layouts. c. Develop interaction behaviors and usability principles for the designs. d. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
@@ -11,6 +12,7 @@ Apply Gestalt principles for organization and visual hierarchy.
 Define interaction states and ensure accessibility.
 Review the design and export the final UI screens.
 Output:
+`` `
 <img width="985" height="642" alt="Screenshot 2026-11-20 155351" src="https://github.com/user-attachments/assets/523e83d0-1e07-4e63-9dfe-52156bf6f6ae" />
 
 
