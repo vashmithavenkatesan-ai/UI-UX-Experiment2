@@ -11,6 +11,8 @@ Apply Gestalt principles for organization and visual hierarchy.
 Define interaction states and ensure accessibility.
 Review the design and export the final UI screens.
 Output:
-Screenshot 2026-09-06 103836
+<img width="985" height="642" alt="Screenshot 2026-11-20 155351" src="https://github.com/user-attachments/assets/523e83d0-1e07-4e63-9dfe-52156bf6f6ae" />
+
+
 Result:
 A responsive and visually consistent UI design was successfully created in Figma with a custom Canva logo, proper layout grids, Gestalt principles, interactive UI elements, accessibility features, and exported screens ready for presentation.
